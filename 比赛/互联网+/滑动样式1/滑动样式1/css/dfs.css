@@ -1,0 +1,89 @@
+.tupian_1 {
+	margin-left: 40%;
+}
+
+.tupian_2 {
+	margin-left: 200px;
+	margin-top:10px;
+	
+
+}
+
+p{
+	margin:0;
+	padding:0;
+	list-style-type:none;
+}
+
+.style1 {
+margin: auto;
+font-family: "楷体"; 
+text-align: center;
+margin-top: 20px;
+}
+
+.newlogin_boxnew{
+	width:980px;
+	margin:0 auto;
+	position:relative;
+	height:375px;
+	margin-top:-245px;
+	z-index:9999999999999999999;
+}
+
+.rightlogin_box{
+	width:296px;
+	top:20px;
+	position:absolute;
+	z-index:9999;
+	right:12px;
+	background: url(image/5.jpg) no-repeat;
+	height:345px;
+}
+
+.rightlogin_tip{
+	width:980px;
+	bottom:0;
+	position:absolute;
+	z-index:999;
+	right:0;
+	background:url(image/5.jpg) no-repeat 0px 0px;
+	height:375px;
+}
+
+.newlogintable_third{
+	font-size:14px;
+	margin:0px auto;
+}
+
+.newlogintable_third tr td{
+	padding-top:7px;
+	padding-bottom:7px;
+}
+
+.newlogintable_third_words{
+	width:138px;
+}
+
+.newlogintable_third_button{
+	width:82px;
+	height:31px;
+	line-height:31px;
+	cursor:pointer;
+	border:none;
+	color:#fff;
+	font-size:14px;
+	background:url(../images/third_button.png) no-repeat;
+}
+
+footer{
+	width:100%;
+	position:relative;
+	bottom:0;
+	height:123px;
+	background-color:#eaeeef;
+	overflow:hidden;
+	margin-top:15px;
+	color:#8d8d8d;
+}
+
